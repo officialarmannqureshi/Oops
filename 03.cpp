@@ -210,6 +210,7 @@ class Customer: virtual public Store,virtual public Retail,virtual public Wholes
 int main(){
     Admin A;
     A.displayallitem();
+    cout<<"\n***** Order *****\n";
     Customer B;
     B.order();
     B.displaycart();
