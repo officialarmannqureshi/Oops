@@ -1,7 +1,10 @@
-# Oops
-Hey this project is based on Store which has two Sectors :Retail and Wholesale. One store manage both retail and wholesale store 2 in 1.I have designed two mode 1 for retail to edit price and item qty,item name for retail and other for wholesale in which you have a feature to add wholesale price and minimum qty scenario now seller can sell in a criteria for wholesale as a min qty.
-There is Admin mode which is secured by Password and also where store manager can modify rate and price ,min qty for both retail and wholesale.
-Additionally,I have added Customer order system also in which seller has feature to register the Gross Received Note and can sell their product in customer mode has features i.e; cust name,phone no ,address and order function and display cart feature is also available.
+# About a Project
+The SuperMarket Billing Application is a console-based project developed using C++ Programming language and Object Oriented Programming principles. This application is designed to help manage sales transactions in retail stores, restaurants, and other businesses. The project involves creating a console-based interface that enables users to inputs product details, customer details, and order value. 
+The application allows users to edit, modify, add, delete, and update details.
+The project makes use of C++'s OOP concepts like classes, objects, inheritance, encapsulation, and polymorphism.The project demonstrates the use of C++ programming language and OOP concepts and provides a solid foundation for more complex applications.
+
+# What I learned from this project? 
+Based on what I know about creating a POS Billing Application using C++ language and object-oriented programming, it requires a strong understanding of C++ programming and OOP principles. This includes creating classes, and objects to represent order value, order id, product price, and product quantity, displaying customer details, and product details, and also, in addition, implemented admin mode with a password.     
 
 OOPS concepts used : Inheritance,polymorphism,Encapsulation,Abstraction and data hiding.
 Technologies used : C++ .
